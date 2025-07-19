@@ -1,4 +1,7 @@
 body {
+  font-family: 'Poppins', sans-serif;
+}
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -6,6 +9,12 @@ body {
     background: #f9f9f9;
 }
 
+header h1 {
+  font-size: 2rem; /* smaller than before */
+  font-weight: 700; /* bold but clean */
+  color: #0a3d62; /* dark professional blue */
+  letter-spacing: 1px; /* makes it modern */
+}
 header {
     background: #008080;
     color: white;
